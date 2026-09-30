@@ -21,3 +21,5 @@
 .control-panel .filter-row{margin-top:0}
 
 .priority-school{border-color:#be862b;border-left:4px solid #be862b}.priority-badge{display:block;width:fit-content;background:#fff1cf;color:#835113;border-radius:4px;font-size:12px;padding:2px 7px;margin-bottom:5px}.map-marker.priority-marker{border-color:#ffdb70;box-shadow:0 0 0 2px #966416,0 2px 7px #173b3650}.school-shortcuts{display:flex;flex-wrap:wrap;gap:6px}.school-shortcuts button{border:1px solid #d5b56a;background:#fff;border-radius:6px;padding:8px;color:#704911;font-size:14px;text-align:left}.category-note small{font-size:12px}
+
+.origin-label{font-size:12px;color:#8c3651;background:#fff1f4;border-radius:4px;padding:3px 7px;width:fit-content;margin:0 0 10px}.origin-details{font-size:13px;line-height:1.8;background:#fff5f7;padding:12px;border-radius:8px;margin-top:18px}.origin-details p{margin:6px 0}.historical-info summary{cursor:pointer;color:#795b30}

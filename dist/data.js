@@ -1837,6 +1837,102 @@ window.FAMILY_DATA = {
       "lng": 2.1188243,
       "geoLabel": "已有OSM场所/地址定位；校门位置需用导航再核对",
       "checked": "2026-09-30"
+    },
+    {
+      "id": "funtalk-arago",
+      "name": "Fun Talk 趣味英语",
+      "original": "FunTalk",
+      "cat": "english",
+      "type": "儿童英语",
+      "address": "Carrer d’Aragó, 119, 08015 Barcelona",
+      "lat": 41.3833827,
+      "lng": 2.153009,
+      "age": "幼儿园及小学儿童；6岁具体班型与空位待询。截图旧营期标注3–11岁。",
+      "summary": "Eixample 儿童英语中心，以游戏与活动学习英语；设儿童课程及假期营。",
+      "price": "当前学费待询",
+      "schedule": "2026–2027学年具体课表待询；官网部分课表仍为上一学年。",
+      "note": "电话937 823 821。确认适合6岁初学者的班型、试课及接送范围；旧营期报价不代表当前学费。",
+      "website": "https://funtalk.es/en/",
+      "sources": [
+        {
+          "label": "FunTalk官网 · 地址与联系方式",
+          "url": "https://funtalk.es/en/contact/"
+        },
+        {
+          "label": "FunTalk官网 · 儿童英语（页面含旧学年课表）",
+          "url": "https://funtalk.es/en/english-classes-for-children-in-the-afternoon/"
+        }
+      ],
+      "geoLabel": "官网链接的Google地图机构坐标",
+      "historicalNote": "截图记载2026年3月30日–4月2日（4天）复活节营，已结束。3–11岁；09:00–13:30为91€；09:00–16:30为128€（自带午餐）或150€（含午餐）。仅保留截图历史信息，未核实原帖报价，不作为当前报名信息。",
+      "originLabel": "来源：小红书",
+      "originNote": "用户提供的小红书截图；原帖链接与作者未提供。机构地址及服务另经官网核对，截图中的营期与报价仅作历史记录。",
+      "checked": "2026-09-30",
+      "status": "当期安排待确认",
+      "pending": true
+    },
+    {
+      "id": "dance-emotion-calabria",
+      "name": "Dance Emotion 儿童舞蹈",
+      "original": "Dance Emotion Calàbria",
+      "cat": "course",
+      "type": "儿童舞蹈",
+      "address": "Carrer de Calàbria, 253, 08029 Barcelona",
+      "lat": 41.3867426,
+      "lng": 2.1454648,
+      "age": "官网分组：3–5岁、6–8岁、9–12岁、13–17岁；6岁对应Kids组。",
+      "summary": "设6–8岁儿童组，可咨询舞蹈启蒙、芭蕾或街舞；本地图收录Calàbria校区。",
+      "price": "学费待询 · 儿童可预约免费试课",
+      "schedule": "按舞种与校区排课；Calàbria校区6–8岁当期课表待询。",
+      "note": "电话604 188 907。学校有多个校区，咨询时明确Calàbria 253、孩子6岁及舞蹈基础；官网提供儿童免费试课，须预约。",
+      "website": "https://dancemotion.es/ninos/",
+      "sources": [
+        {
+          "label": "Dance Emotion官网 · 儿童年龄分组、试课与校址",
+          "url": "https://dancemotion.es/ninos/"
+        }
+      ],
+      "geoLabel": "官网Calàbria校区Google地图链接的机构坐标",
+      "historicalNote": "截图记载2026年3月30日–4月2日（4天）舞蹈营，已结束。09:00–13:00为120€；09:00–15:00为150€（自带便当）。仅保留截图历史信息，未核实原帖报价，不作为当前报名信息。",
+      "originLabel": "来源：小红书",
+      "originNote": "用户提供的小红书截图；原帖链接与作者未提供。机构地址及服务另经官网核对，截图中的营期与报价仅作历史记录。",
+      "checked": "2026-09-30",
+      "status": "当期安排待确认",
+      "pending": true
+    },
+    {
+      "id": "planeta-magic-viladomat",
+      "name": "Planeta Magic 室内游乐场",
+      "original": "Planeta Magic Barcelona",
+      "cat": "indoor",
+      "type": "室内游乐",
+      "address": "Carrer de Viladomat, 124, 08015 Barcelona",
+      "lat": 41.3810618,
+      "lng": 2.1560037,
+      "age": "6岁亲子游玩候选；具体设施年龄及陪同规则待确认。官网2026夏令营曾标注3–12岁。",
+      "summary": "Eixample 室内儿童游乐场，提供日常游玩、生日活动及假期营。",
+      "price": "官网散客1小时8–9€",
+      "priceDetail": "官网列周三、四1小时8€／整下午10€；周五及周末、节假日1小时9€／整下午11€。以出发前确认价格为准。",
+      "schedule": "官网列周三、四17:00–20:30；周五17:00–21:00；周末及节假日11:00–14:00、17:00–21:00（周日20:30结束）。",
+      "note": "电话934 535 400。入场需穿袜子；出发前确认散客开放、包场及家长陪同规定。历史营期费用与日常门票不同。",
+      "website": "https://www.planetamagicbarcelona.com/",
+      "sources": [
+        {
+          "label": "Planeta Magic官网 · 游玩时间、票价及活动",
+          "url": "https://www.planetamagicbarcelona.com/"
+        },
+        {
+          "label": "Planeta Magic官网 · 地址",
+          "url": "https://www.planetamagicbarcelona.com/contactanos"
+        }
+      ],
+      "geoLabel": "OpenStreetMap门牌124号建筑定位",
+      "historicalNote": "截图记载2026年3月30日–4月2日（4天）营期，已结束。09:00–14:00，含早餐，30€/天。仅保留截图历史信息，未核实原帖报价，不作为当前报名信息。",
+      "originLabel": "来源：小红书",
+      "originNote": "用户提供的小红书截图；原帖链接与作者未提供。机构地址及服务另经官网核对，截图中的营期与报价仅作历史记录。",
+      "checked": "2026-09-30",
+      "status": "当期安排待确认",
+      "pending": true
     }
   ]
 };
