@@ -1449,6 +1449,394 @@ window.FAMILY_DATA = {
       "lat": 41.3879052,
       "lng": 2.1911663,
       "geoLabel": "OpenStreetMap 场所/门牌定位；非实时入口确认"
+    },
+    {
+      "id": "primary-lleo",
+      "name": "Lleó XIII",
+      "original": "Lleó XIII",
+      "cat": "school",
+      "type": "小学 · 半公半私",
+      "schoolType": "concertado",
+      "priority": 1,
+      "address": "Carrer de Lleó XIII, 16-18-20",
+      "age": "小学阶段，约6–12岁；具体入读年级须学校确认。",
+      "summary": "家附近的重点小学候选。官网设小学阶段，也介绍面向体育、音乐或舞蹈学生的个性化安排。",
+      "price": "餐费、材料及其他项目费用待询",
+      "schedule": "全日制小学；当期校历、上下学时间与招生安排请向学校核对。",
+      "note": "重点关注顺序：1；这是家庭关注顺序，不是学校质量排名。Concertado指私立办学、相应阶段获公共资助，并非公立学校。请向学校索取费用分项，确认小学一年级或转学名额、授课语言及西语/加泰语零基础支持；是否录取尚未确认。",
+      "sources": [
+        {
+          "label": "学校官网：阶段或校址",
+          "url": "https://lleoxiii.com/"
+        },
+        {
+          "label": "教育部门小学目录：小学阶段、类型及校址（2026-09-30核查）",
+          "url": "https://www.gencat.cat/ensenyament/eac/pdf/EPRILOE_ES.pdf"
+        }
+      ],
+      "website": "https://lleoxiii.com/",
+      "status": "小学已核实 / 学位待询",
+      "pending": true,
+      "lat": 41.4124913,
+      "lng": 2.1370866,
+      "geoLabel": "2026-09-30 OpenStreetMap门牌定位；校门入口以现场为准",
+      "checked": "2026-09-30"
+    },
+    {
+      "id": "primary-sil",
+      "name": "SIL",
+      "original": "Sil",
+      "cat": "school",
+      "type": "小学 · 半公半私",
+      "schoolType": "concertado",
+      "priority": 2,
+      "address": "Avinguda del Tibidabo, 26-28",
+      "age": "小学阶段，约6–12岁；具体入读年级须学校确认。",
+      "summary": "Tibidabo大道上的重点候选；官网以三语学校定位，小学课程与具体语言支持需面谈确认。",
+      "price": "餐费、材料及其他项目费用待询",
+      "schedule": "全日制小学；当期校历、上下学时间与招生安排请向学校核对。",
+      "note": "重点关注顺序：2；这是家庭关注顺序，不是学校质量排名。Concertado指私立办学、相应阶段获公共资助，并非公立学校。请向学校索取费用分项，确认小学一年级或转学名额、授课语言及西语/加泰语零基础支持；是否录取尚未确认。",
+      "sources": [
+        {
+          "label": "学校官网：阶段或校址",
+          "url": "https://colegiosil.com/contacto/"
+        },
+        {
+          "label": "教育部门小学目录：小学阶段、类型及校址（2026-09-30核查）",
+          "url": "https://www.gencat.cat/ensenyament/eac/pdf/EPRILOE_ES.pdf"
+        }
+      ],
+      "website": "https://colegiosil.com/contacto/",
+      "status": "小学已核实 / 学位待询",
+      "pending": true,
+      "lat": 41.4128189,
+      "lng": 2.1353078,
+      "geoLabel": "2026-09-30 OpenStreetMap门牌定位；校门入口以现场为准",
+      "checked": "2026-09-30"
+    },
+    {
+      "id": "primary-decroly",
+      "name": "Decroly",
+      "original": "Decroly",
+      "cat": "school",
+      "type": "小学 · 半公半私",
+      "schoolType": "concertado",
+      "priority": 3,
+      "address": "Carrer del Vendrell, 1",
+      "age": "小学阶段，约6–12岁；具体入读年级须学校确认。",
+      "summary": "提供幼儿园和小学，官网强调基于艺术、科学与运动的主动学习。",
+      "price": "餐费、材料及其他项目费用待询",
+      "schedule": "全日制小学；当期校历、上下学时间与招生安排请向学校核对。",
+      "note": "重点关注顺序：3；这是家庭关注顺序，不是学校质量排名。Concertado指私立办学、相应阶段获公共资助，并非公立学校。请向学校索取费用分项，确认小学一年级或转学名额、授课语言及西语/加泰语零基础支持；是否录取尚未确认。",
+      "sources": [
+        {
+          "label": "学校官网：阶段或校址",
+          "url": "https://escoladecroly.org/"
+        },
+        {
+          "label": "教育部门小学目录：小学阶段、类型及校址（2026-09-30核查）",
+          "url": "https://www.gencat.cat/ensenyament/eac/pdf/EPRILOE_ES.pdf"
+        }
+      ],
+      "website": "https://escoladecroly.org/",
+      "status": "小学已核实 / 学位待询",
+      "pending": true,
+      "lat": 41.4106202,
+      "lng": 2.1336951,
+      "geoLabel": "已有OSM场所/地址定位；校门位置需用导航再核对",
+      "checked": "2026-09-30"
+    },
+    {
+      "id": "primary-salle",
+      "name": "La Salle Bonanova",
+      "original": "La Salle Bonanova",
+      "cat": "school",
+      "type": "小学 · 半公半私",
+      "schoolType": "concertado",
+      "priority": 4,
+      "address": "Passeig de la Bonanova, 8",
+      "age": "小学阶段，约6–12岁；具体入读年级须学校确认。",
+      "summary": "Bonanova的重点小学候选。注意这是学校小学部，与地图里的课外语言或运动课程不同。",
+      "price": "餐费、材料及其他项目费用待询",
+      "schedule": "全日制小学；当期校历、上下学时间与招生安排请向学校核对。",
+      "note": "重点关注顺序：4；这是家庭关注顺序，不是学校质量排名。Concertado指私立办学、相应阶段获公共资助，并非公立学校。请向学校索取费用分项，确认小学一年级或转学名额、授课语言及西语/加泰语零基础支持；是否录取尚未确认。",
+      "sources": [
+        {
+          "label": "学校官网：阶段或校址",
+          "url": "https://bonanova.lasalle.cat/cercador/"
+        },
+        {
+          "label": "教育部门小学目录：小学阶段、类型及校址（2026-09-30核查）",
+          "url": "https://www.gencat.cat/ensenyament/eac/pdf/EPRILOE_ES.pdf"
+        }
+      ],
+      "website": "https://bonanova.lasalle.cat/cercador/",
+      "status": "小学已核实 / 学位待询",
+      "pending": true,
+      "lat": 41.4062104,
+      "lng": 2.1324632,
+      "geoLabel": "已有OSM场所/地址定位；校门位置需用导航再核对",
+      "checked": "2026-09-30"
+    },
+    {
+      "id": "primary-jesus-maria",
+      "name": "Jesús María Sant Gervasi",
+      "original": "Jesús María Sant Gervasi",
+      "cat": "school",
+      "type": "小学 · 半公半私",
+      "schoolType": "concertado",
+      "priority": 0,
+      "address": "Passeig de Sant Gervasi, 15",
+      "age": "小学阶段，约6–12岁；具体入读年级须学校确认。",
+      "summary": "家附近的小学候选。与同址的British Council课外英语点分别列出，招生是不同事项。",
+      "price": "餐费、材料及其他项目费用待询",
+      "schedule": "全日制小学；当期校历、上下学时间与招生安排请向学校核对。",
+      "note": "Concertado指私立办学、相应阶段获公共资助，并非公立学校。请向学校索取费用分项，确认小学一年级或转学名额、授课语言及西语/加泰语零基础支持；是否录取尚未确认。",
+      "sources": [
+        {
+          "label": "学校官网：阶段或校址",
+          "url": "https://www.gencat.cat/ensenyament/eac/pdf/EPRILOE_ES.pdf"
+        },
+        {
+          "label": "教育部门小学目录：小学阶段、类型及校址（2026-09-30核查）",
+          "url": "https://www.gencat.cat/ensenyament/eac/pdf/EPRILOE_ES.pdf"
+        }
+      ],
+      "website": "https://www.gencat.cat/ensenyament/eac/pdf/EPRILOE_ES.pdf",
+      "status": "小学已核实 / 学位待询",
+      "pending": true,
+      "lat": 41.4085873,
+      "lng": 2.1342392,
+      "geoLabel": "已有OSM场所/地址定位；校门位置需用导航再核对",
+      "checked": "2026-09-30"
+    },
+    {
+      "id": "primary-lys",
+      "name": "Lys",
+      "original": "Lys",
+      "cat": "school",
+      "type": "小学 · 半公半私",
+      "schoolType": "concertado",
+      "priority": 0,
+      "address": "Carrer de Puig-reig, 9",
+      "age": "小学阶段，约6–12岁；具体入读年级须学校确认。",
+      "summary": "Putxet一带的小学候选，可与附近几所学校一起比较接送路线和班级情况。",
+      "price": "餐费、材料及其他项目费用待询",
+      "schedule": "全日制小学；当期校历、上下学时间与招生安排请向学校核对。",
+      "note": "Concertado指私立办学、相应阶段获公共资助，并非公立学校。请向学校索取费用分项，确认小学一年级或转学名额、授课语言及西语/加泰语零基础支持；是否录取尚未确认。",
+      "sources": [
+        {
+          "label": "学校官网：阶段或校址",
+          "url": "https://www.gencat.cat/ensenyament/eac/pdf/EPRILOE_ES.pdf"
+        },
+        {
+          "label": "教育部门小学目录：小学阶段、类型及校址（2026-09-30核查）",
+          "url": "https://www.gencat.cat/ensenyament/eac/pdf/EPRILOE_ES.pdf"
+        }
+      ],
+      "website": "https://www.gencat.cat/ensenyament/eac/pdf/EPRILOE_ES.pdf",
+      "status": "小学已核实 / 学位待询",
+      "pending": true,
+      "lat": 41.4046532,
+      "lng": 2.1431297,
+      "geoLabel": "已有OSM场所/地址定位；校门位置需用导航再核对",
+      "checked": "2026-09-30"
+    },
+    {
+      "id": "primary-horitzo",
+      "name": "L’Horitzó",
+      "original": "L'Horitzó",
+      "cat": "school",
+      "type": "小学 · 半公半私",
+      "schoolType": "concertado",
+      "priority": 0,
+      "address": "Passeig de la Bonanova, 7",
+      "age": "小学阶段，约6–12岁；具体入读年级须学校确认。",
+      "summary": "Bonanova大道附近的小学候选；官方小学目录列为受资助私立办学。",
+      "price": "餐费、材料及其他项目费用待询",
+      "schedule": "全日制小学；当期校历、上下学时间与招生安排请向学校核对。",
+      "note": "Concertado指私立办学、相应阶段获公共资助，并非公立学校。请向学校索取费用分项，确认小学一年级或转学名额、授课语言及西语/加泰语零基础支持；是否录取尚未确认。",
+      "sources": [
+        {
+          "label": "学校官网：阶段或校址",
+          "url": "https://www.gencat.cat/ensenyament/eac/pdf/EPRILOE_ES.pdf"
+        },
+        {
+          "label": "教育部门小学目录：小学阶段、类型及校址（2026-09-30核查）",
+          "url": "https://www.gencat.cat/ensenyament/eac/pdf/EPRILOE_ES.pdf"
+        }
+      ],
+      "website": "https://www.gencat.cat/ensenyament/eac/pdf/EPRILOE_ES.pdf",
+      "status": "小学已核实 / 学位待询",
+      "pending": true,
+      "lat": 41.4060595,
+      "lng": 2.1326351,
+      "geoLabel": "已有OSM场所/地址定位；校门位置需用导航再核对",
+      "checked": "2026-09-30"
+    },
+    {
+      "id": "primary-pia-balmes",
+      "name": "Escola Pia Balmes",
+      "original": "Escola Pia Balmes",
+      "cat": "school",
+      "type": "小学 · 半公半私",
+      "schoolType": "concertado",
+      "priority": 0,
+      "address": "Carrer de Balmes, 208",
+      "age": "小学阶段，约6–12岁；具体入读年级须学校确认。",
+      "summary": "沿Balmes街向市中心方向的扩展小学候选，可比较通勤与新生支持。",
+      "price": "餐费、材料及其他项目费用待询",
+      "schedule": "全日制小学；当期校历、上下学时间与招生安排请向学校核对。",
+      "note": "Concertado指私立办学、相应阶段获公共资助，并非公立学校。请向学校索取费用分项，确认小学一年级或转学名额、授课语言及西语/加泰语零基础支持；是否录取尚未确认。",
+      "sources": [
+        {
+          "label": "学校官网：阶段或校址",
+          "url": "https://www.gencat.cat/ensenyament/eac/pdf/EPRILOE_ES.pdf"
+        },
+        {
+          "label": "教育部门小学目录：小学阶段、类型及校址（2026-09-30核查）",
+          "url": "https://www.gencat.cat/ensenyament/eac/pdf/EPRILOE_ES.pdf"
+        }
+      ],
+      "website": "https://www.gencat.cat/ensenyament/eac/pdf/EPRILOE_ES.pdf",
+      "status": "小学已核实 / 学位待询",
+      "pending": true,
+      "lat": 41.3979156,
+      "lng": 2.1517122,
+      "geoLabel": "已有OSM场所/地址定位；校门位置需用导航再核对",
+      "checked": "2026-09-30"
+    },
+    {
+      "id": "primary-sant-ignasi",
+      "name": "Jesuïtes Sarrià · Sant Ignasi",
+      "original": "Jesuïtes Sarrià - Sant Ignasi",
+      "cat": "school",
+      "type": "小学 · 半公半私",
+      "schoolType": "concertado",
+      "priority": 0,
+      "address": "Carrer de Carrasco i Formiguera, 32",
+      "age": "小学阶段，约6–12岁；具体入读年级须学校确认。",
+      "summary": "Sarrià方向的小学候选，官方目录列有小学阶段及concertado性质。",
+      "price": "餐费、材料及其他项目费用待询",
+      "schedule": "全日制小学；当期校历、上下学时间与招生安排请向学校核对。",
+      "note": "Concertado指私立办学、相应阶段获公共资助，并非公立学校。请向学校索取费用分项，确认小学一年级或转学名额、授课语言及西语/加泰语零基础支持；是否录取尚未确认。",
+      "sources": [
+        {
+          "label": "学校官网：阶段或校址",
+          "url": "https://www.gencat.cat/ensenyament/eac/pdf/EPRILOE_ES.pdf"
+        },
+        {
+          "label": "教育部门小学目录：小学阶段、类型及校址（2026-09-30核查）",
+          "url": "https://www.gencat.cat/ensenyament/eac/pdf/EPRILOE_ES.pdf"
+        }
+      ],
+      "website": "https://www.gencat.cat/ensenyament/eac/pdf/EPRILOE_ES.pdf",
+      "status": "小学已核实 / 学位待询",
+      "pending": true,
+      "lat": 41.4029332,
+      "lng": 2.1214953,
+      "geoLabel": "已有OSM场所/地址定位；校门位置需用导航再核对",
+      "checked": "2026-09-30"
+    },
+    {
+      "id": "primary-bsb",
+      "name": "BSB City · Lucà 小学",
+      "original": "BSB City - Lucà Campus",
+      "cat": "school",
+      "type": "小学 · 私立",
+      "schoolType": "private",
+      "priority": 0,
+      "address": "Carrer de Lucà, 1",
+      "age": "小学阶段，约6–12岁；具体入读年级须学校确认。",
+      "summary": "家附近的私立英制学校。官网将Lucà校区列为6岁起，Esperança为较低龄阶段。",
+      "price": "私立学费及入学费用待询",
+      "schedule": "全日制小学；当期校历、上下学时间与招生安排请向学校核对。",
+      "note": "请向招生处确认6岁对应年级、当期空位、英语要求、语言支持、注册费、学费、餐费及退费条件。未将旧学年费用当作当前报价。",
+      "sources": [
+        {
+          "label": "学校官网：阶段或校址",
+          "url": "https://www.britishschoolbarcelona.com/ca/installacions-i-ubicacio/bsb-city/"
+        },
+        {
+          "label": "官方校区联系方式",
+          "url": "https://www.britishschoolbarcelona.com/contact-us/"
+        }
+      ],
+      "website": "https://www.britishschoolbarcelona.com/ca/installacions-i-ubicacio/bsb-city/",
+      "status": "小学已核实 / 学位待询",
+      "pending": true,
+      "lat": 41.4108331,
+      "lng": 2.1394015,
+      "geoLabel": "已有OSM场所/地址定位；校门位置需用导航再核对",
+      "checked": "2026-09-30"
+    },
+    {
+      "id": "primary-oak",
+      "name": "Oak House School",
+      "original": "Oak House School",
+      "cat": "school",
+      "type": "小学 · 私立",
+      "schoolType": "private",
+      "priority": 0,
+      "address": "Carrer de Sant Pere Claver, 12",
+      "age": "小学阶段，约6–12岁；具体入读年级须学校确认。",
+      "summary": "私立非营利学校，小学采用英制课程，并提供英语、西班牙语、加泰语学习。",
+      "price": "私立学费及入学费用待询",
+      "schedule": "全日制小学；当期校历、上下学时间与招生安排请向学校核对。",
+      "note": "请向招生处确认6岁对应年级、当期空位、英语要求、语言支持、注册费、学费、餐费及退费条件。未将旧学年费用当作当前报价。",
+      "sources": [
+        {
+          "label": "学校官网：阶段或校址",
+          "url": "https://www.oakhouseschool.com/primary-school/"
+        },
+        {
+          "label": "官网：私立非营利性质",
+          "url": "https://www.oakhouseschool.com/"
+        }
+      ],
+      "website": "https://www.oakhouseschool.com/primary-school/",
+      "status": "小学已核实 / 学位待询",
+      "pending": true,
+      "lat": 41.4070456,
+      "lng": 2.116599,
+      "geoLabel": "已有OSM场所/地址定位；校门位置需用导航再核对",
+      "checked": "2026-09-30"
+    },
+    {
+      "id": "primary-bfis",
+      "name": "Benjamin Franklin International School",
+      "original": "Benjamin Franklin International School",
+      "cat": "school",
+      "type": "小学 · 私立",
+      "schoolType": "private",
+      "priority": 0,
+      "address": "Carrer de Martorell i Peña, 9",
+      "age": "小学阶段，约6–12岁；具体入读年级须学校确认。",
+      "summary": "Sarrià的私立国际学校，设Elementary阶段；6岁入读年级需按出生日期和原学籍确认。",
+      "price": "私立学费及入学费用待询",
+      "schedule": "全日制小学；当期校历、上下学时间与招生安排请向学校核对。",
+      "note": "请向招生处确认6岁对应年级、当期空位、英语要求、语言支持、注册费、学费、餐费及退费条件。未将旧学年费用当作当前报价。",
+      "sources": [
+        {
+          "label": "学校官网：阶段或校址",
+          "url": "https://www.bfischool.org/learning/elementary-school"
+        },
+        {
+          "label": "官方基金会性质及地址",
+          "url": "https://www.bfischool.org/ethics-channel"
+        },
+        {
+          "label": "官方小学楼与校址",
+          "url": "https://www.bfischool.org/about-us/campus"
+        }
+      ],
+      "website": "https://www.bfischool.org/learning/elementary-school",
+      "status": "小学已核实 / 学位待询",
+      "pending": true,
+      "lat": 41.4062147,
+      "lng": 2.1188243,
+      "geoLabel": "已有OSM场所/地址定位；校门位置需用导航再核对",
+      "checked": "2026-09-30"
     }
   ]
 };

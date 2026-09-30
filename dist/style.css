@@ -19,3 +19,5 @@
 @media(max-width:700px){.topbar{height:58px;padding:0 14px}.brand strong{font-size:19px}.age-pill{font-size:12px;padding:6px 8px}.control-panel{padding:8px 14px}.intro{gap:8px}h1{font-size:20px}.home-button{font-size:14px;padding:8px;min-height:38px}.filter-row{margin-top:6px}.categories{padding:2px 0 4px;gap:6px}.category{font-size:14px;min-height:40px;padding:8px 10px}.scope-label{margin-top:4px}select{font-size:14px;min-height:40px}.distance-note{font-size:12px;margin-top:6px}.map-caption{top:10px;left:10px}}
 
 .control-panel .filter-row{margin-top:0}
+
+.priority-school{border-color:#be862b;border-left:4px solid #be862b}.priority-badge{display:block;width:fit-content;background:#fff1cf;color:#835113;border-radius:4px;font-size:12px;padding:2px 7px;margin-bottom:5px}.map-marker.priority-marker{border-color:#ffdb70;box-shadow:0 0 0 2px #966416,0 2px 7px #173b3650}.school-shortcuts{display:flex;flex-wrap:wrap;gap:6px}.school-shortcuts button{border:1px solid #d5b56a;background:#fff;border-radius:6px;padding:8px;color:#704911;font-size:14px;text-align:left}.category-note small{font-size:12px}
