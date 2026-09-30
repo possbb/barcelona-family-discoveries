@@ -1933,6 +1933,35 @@ window.FAMILY_DATA = {
       "checked": "2026-09-30",
       "status": "当期安排待确认",
       "pending": true
+    },
+    {
+      "id": "happy-chinese-kids",
+      "name": "Happy Chinese Kids 快乐中文班",
+      "original": "Happy Chinese Kids Barcelona",
+      "cat": "course",
+      "type": "儿童中文 · 周六班",
+      "address": "Carrer de Dolors Masferrer, 29, Les Corts, Barcelona",
+      "navigation": "Carrer de Dolors Masferrer i Bosch, 29, Barcelona",
+      "lat": 41.3850453,
+      "lng": 2.1285745,
+      "age": "截图标注4–8岁，包含6岁；入班要求与当前招生待确认。",
+      "summary": "小红书截图中的周六快乐中文班：面向4–8岁儿童，地点在Les Corts；当期是否开班待确认。",
+      "price": "截图未提供费用 · 待询",
+      "schedule": "截图标注每周六11:00–16:00；未注明学期或发布日期，当前安排待确认。",
+      "note": "尚未找到可独立核实该课程的官网或报名页面。请向小红书原帖发布者确认当前开班、教室入口、费用、是否含午餐及家长陪同要求。同址29–31号为Espai Jove Ca La Panarra，地址定位不代表该场地已确认承办此中文班。",
+      "website": "",
+      "sources": [
+        {
+          "label": "巴塞罗那市政府 · 同址场地29–31号（仅核对地址，不证明中文班开设）",
+          "url": "https://guia.barcelona.cat/agenda/detall/espai-jove-ca-la-panarra_99400010469.html"
+        }
+      ],
+      "originLabel": "来源：小红书",
+      "originNote": "用户提供的小红书截图，标题为“巴塞罗那｜周六带娃好去处！”；原帖链接、作者及发布日期未提供。课程名称、4–8岁及周六11:00–16:00均来自截图，尚未独立核实。",
+      "geoLabel": "按截图地址定位到OpenStreetMap的29–31号场地；具体教室与入口待确认",
+      "checked": "2026-09-30",
+      "status": "截图线索 · 待核实",
+      "pending": true
     }
   ]
 };
